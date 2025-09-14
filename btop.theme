@@ -1,0 +1,79 @@
+; ---- NeoVoid Theme ----
+
+# Main background, empty for terminal default, need to be empty if you want transparent background
+theme[main_bg]=""
+
+# Main background and text colors
+theme[main_bg]             = #000000
+theme[main_fg]             = #00d9ff
+
+# Title and highlight colors
+theme[title]               = #00d9ff
+theme[hi_fg]               = #000000
+theme[hi_bg]               = #00d9ff
+
+# Graph colors
+theme[graph_text]          = #00d9ff
+theme[graph_start]         = #005566
+theme[graph_mid]           = #00d9ff
+theme[graph_end]           = #00ffff
+
+# CPU, memory, and network meters
+theme[cpu_box]              = #000000
+theme[cpu_p]                = #00d9ff
+theme[mem_box]              = #000000
+theme[mem_p]                = #00d9ff
+theme[net_box]               = #000000
+theme[net_up]                = #00d9ff
+theme[net_down]              = #00d9ff
+
+# Processes list
+theme[proc_box]              = #000000
+theme[proc_fg]               = #00d9ff
+theme[proc_selected_bg]      = #00d9ff
+theme[proc_selected_fg]      = #000000
+
+
+# Box divider line and small boxes line color
+theme[div_line]="#8a8a8d"
+
+
+# Temperature graph colors
+theme[temp_start]="#003344"
+theme[temp_mid]="#00bfff"
+theme[temp_end]="#00ffff"
+
+# CPU graph colors
+theme[cpu_start]="#003344"
+theme[cpu_mid]="#00bfff"
+theme[cpu_end]="#00ffff"
+
+# Mem/Disk free meter
+theme[free_start]="#003344"
+theme[free_mid]="#00bfff"
+theme[free_end]="#00ffff"
+
+# Mem/Disk cached meter
+theme[cached_start]="#003344"
+theme[cached_mid]="#00bfff"
+theme[cached_end]="#00ffff"
+
+# Mem/Disk available meter
+theme[available_start]="#003344"
+theme[available_mid]="#00bfff"
+theme[available_end]="#00ffff"
+
+# Mem/Disk used meter
+theme[used_start]="#003344"
+theme[used_mid]="#00bfff"
+theme[used_end]="#00ffff"
+
+# Download graph colors
+theme[download_start]="#003344"
+theme[download_mid]="#00bfff"
+theme[download_end]="#00ffff"
+
+# Upload graph colors
+theme[upload_start]="#003344"
+theme[upload_mid]="#00bfff"
+theme[upload_end]="#00ffff"

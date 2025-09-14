@@ -1,0 +1,47 @@
+# ---- NeoVoid Theme ---- #
+
+[window]
+# window padding {px}
+padding.x = 12
+padding.y = 12
+
+[font]
+size = 12.0
+
+[colors]
+[colors.primary]
+background = "#000000"
+foreground = "#E0E0E0"
+dim_foreground = "#8a8a8d"
+
+[colors.cursor]
+text = "#000000"
+cursor = "#00BFFF"
+
+[colors.vi_mode_cursor]
+text = "#000000"
+cursor = "#00BFFF"
+
+[colors.selection]
+text = "CellForeground"
+background = "#333333"
+
+[colors.normal]
+black   = "#000000"
+red     = "#FF0040"
+green   = "#00BFFF"
+yellow  = "#1E90FF"
+blue    = "#00BFFF"
+magenta = "#1E90FF"
+cyan    = "#00BFFF"
+white   = "#E0E0E0"
+
+[colors.bright]
+black   = "#1A1A1A"
+red     = "#FF0040"
+green   = "#00BFFF"
+yellow  = "#1E90FF"
+blue    = "#00BFFF"
+magenta = "#1E90FF"
+cyan    = "#00BFFF"
+white   = "#FFFFFF"
