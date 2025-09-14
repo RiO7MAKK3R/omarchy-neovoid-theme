@@ -81,6 +81,10 @@ Icons – Cool-toned dark icons
 Install using
 Super + Alt + Space > Install > Theme > Style
 
+```bash
+omarchy-theme-install https://github.com/RiO7MAKK3R/omarchy-Neovoid-theme/
+```
+
 OR
 
 Copy this theme directory to your Omarchy config themes folder.
@@ -114,3 +118,7 @@ Some applications may need additional configuration for optimal appearance
 
 ## Previews
 ![image alt](https://github.com/RiO7MAKK3R/omarchy-Neovoid-theme/blob/6c8fca10d4cb8240de59987b6f81964043bfa827/preview-1.png)
+![image alt](https://github.com/RiO7MAKK3R/omarchy-Neovoid-theme/blob/6c8fca10d4cb8240de59987b6f81964043bfa827/preview-2.png)
+![image alt](https://github.com/RiO7MAKK3R/omarchy-Neovoid-theme/blob/6c8fca10d4cb8240de59987b6f81964043bfa827/preview-3.png)
+![image alt](https://github.com/RiO7MAKK3R/omarchy-Neovoid-theme/blob/6c8fca10d4cb8240de59987b6f81964043bfa827/preview-4.png)
+![image alt](https://github.com/RiO7MAKK3R/omarchy-Neovoid-theme/blob/6c8fca10d4cb8240de59987b6f81964043bfa827/preview-5.png)
