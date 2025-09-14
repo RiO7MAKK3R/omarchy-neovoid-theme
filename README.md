@@ -1,8 +1,8 @@
-Neovoid Theme
+# Neovoid Theme
 
 A dark, modern theme inspired by neon signals and futuristic cyber aesthetics. A pure black base is accented by icy whites and electric blues for a clean, high-contrast experience.
 
-Theme Concept
+### Theme Concept
 
 Void & Focus: Minimal visual noise to emphasize content
 
@@ -19,7 +19,7 @@ Foreground: #F0F6FF – Icy white-blue
 
 Secondary Background: #0A0A0A – Very dark gray
 
-Accent Colors
+#### Accent Colors
 
 Primary: #1E90FF – Electric blue
 
@@ -33,7 +33,7 @@ Error: #FF3366 – Vibrant crimson
 
 Info: #66CCFF – Sky blue
 
-Terminal Colors
+#### Terminal Colors
 Color	Normal	Bright	Description
 Black	#0A0A0A	#333333	Deep black / muted gray
 Red	    #FF3366	#FF6688	Crimson / bright red-pink
@@ -44,7 +44,7 @@ Magenta	#00CFFF	#33DDFF	Neon cyan / bright cyan
 Cyan	#66CCFF	#99DDFF	Cool sky blue / light blue
 White	#F0F6FF	#FFFFFF	Icy white-blue / pure white
 
-Features
+### Features
 
 Neon Borders: Clean electric blue borders around active windows
 
@@ -54,7 +54,7 @@ High Contrast: Optimized for readability and visual comfort
 
 Minimal Noise: Strips away distractions for a productivity-focused UI
 
-Components Included
+### Components Included
 
 Terminal (Alacritty) – Icy white + blue accents
 
@@ -76,7 +76,7 @@ Text Editor (Neovim) – Custom Neovoid colorscheme
 
 Icons – Cool-toned dark icons
 
-Installation
+### Installation
 
 Install using
 Super + Alt + Space > Install > Theme > Style
@@ -85,14 +85,14 @@ OR
 
 Copy this theme directory to your Omarchy config themes folder.
 
-Suggested Font
+### Suggested Font
 
 Terminus Font — For a clean, pixel-precise, hacker aesthetic that complements the theme’s minimalism.
 Install with:
 
 sudo pacman -S terminus-font
 
-Wallpaper Suggestions
+### Wallpaper Suggestions
 
 Look for images featuring:
 
@@ -104,7 +104,7 @@ Minimal futuristic architecture silhouettes
 
 Dark sci-fi tech environments
 
-Notes
+### Notes
 
 Optimized for low-light environments
 
