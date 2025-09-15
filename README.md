@@ -116,6 +116,8 @@ Color choices emphasize focus and clarity
 
 Some applications may need additional configuration for optimal appearance
 
+Adjust border size for enhanced visuals
+
 ## Previews
 ![image alt](https://github.com/RiO7MAKK3R/omarchy-Neovoid-theme/blob/6c8fca10d4cb8240de59987b6f81964043bfa827/preview-1.png)
 ![image alt](https://github.com/RiO7MAKK3R/omarchy-Neovoid-theme/blob/6c8fca10d4cb8240de59987b6f81964043bfa827/preview-2.png)
