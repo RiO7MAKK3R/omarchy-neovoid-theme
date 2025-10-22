@@ -9,9 +9,3 @@
 
 @define-color selection-bg rgba(30,144,255,0.15);   /* glowing selection */
 @define-color hover-bg rgba(30,144,255,0.07);
-
-window {
-  background-color: rgba(13, 17, 26, 0.6); 
-  border: 2px solid @border;
-  box-shadow: 0 0 25px rgba(30,144,255,0.25);
-}
