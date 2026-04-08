@@ -82,7 +82,7 @@ Install using
 Super + Alt + Space > Install > Theme > Style
 
 ```bash
-omarchy-theme-install https://github.com/RiO7MAKK3R/omarchy-Neovoid-theme/
+omarchy-theme-install https://github.com/RiO7MAKK3R/omarchy-neovoid-theme/
 ```
 
 OR
